@@ -51,7 +51,8 @@
 module.exports = {coinCount};</code>
 
 ##### Tests: 
-1. console.log("{}", coinCount({denom: 5, count: 3})); - 15
+1. console.log("{}", coinCount({denom: 5, count: 3}));
+- 15
 <br>
 2. console.log("{}s", coinCount({denom: 5, count: 3},{denom: 10, count: 2}));
 - 35
